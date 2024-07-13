@@ -1,6 +1,6 @@
-## Library Management System
+## Task Manager
 ## Description
-   Full Library Management System
+   Mini Task Manger App
 ## Technologies
 
 <div>
